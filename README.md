@@ -1,7 +1,7 @@
 # Text-mining & Machine Learning -- Fintech
 
 
-##Introduction
+## Introduction
 
 Hi, my name is Josh!
 
@@ -10,7 +10,7 @@ I like playing basketball and coding.
 Very excited to go to this text-mining & ML class :)
 
 
-###Hw0
+### Hw0
 
 
 
