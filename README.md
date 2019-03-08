@@ -12,7 +12,7 @@ Very excited to go to this text-mining & ML class :)
 
 ### Hw0
 
-https://joshchang1112.github.io/Text-mining---Fintech/hw0/time_practice.ipynb
+https://github.com/joshchang1112/Text-mining---Fintech/blob/master/hw0/time_practice.ipynb
 
 
 
