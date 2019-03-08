@@ -10,7 +10,7 @@ I like playing basketball and coding.
 Very excited to go to this text-mining & ML class :)
 
 
-### Hw0 - Code practice()
+### Hw0 - Code practice(datetime)
 
 https://github.com/joshchang1112/Text-mining---Fintech/blob/master/hw0/time_practice.ipynb
 
